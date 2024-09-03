@@ -1,0 +1,41 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Classic White Sneakers",
+            "description": "Timeless white sneakers with a comfortable fit, suitable for everyday wear.",
+            "price": 109.99
+        },
+        {
+            "id": 2,
+            "title": "Black Running Shoes",
+            "description": "Lightweight and breathable running shoes designed for optimal performance on various terrains.",
+            "price": 179.99
+        },
+        {
+            "id": 3,
+            "title": "Brown Leather Loafers",
+            "description": "Elegant brown leather loafers with a soft insole and durable outsole, perfect for formal occasions.",
+            "price": 89.99
+        },
+        {
+            "id": 4,
+            "title": "Blue Casual Slip-Ons",
+            "description": "Comfortable blue slip-ons with a cushioned footbed, ideal for casual outings.",
+            "price": 39.99
+        },
+        {
+            "id": 5,
+            "title": "Red High-Top Sneakers",
+            "description": "Stylish red high-top sneakers with a modern design and excellent ankle support.",
+            "price": 69.99
+        },
+        {
+            "id": 6,
+            "title": "Grey Hiking Boots",
+            "description": "Rugged grey hiking boots with a waterproof exterior and superior grip for outdoor adventures.",
+            "price": 109.99
+        }
+    ]
+        
+}
